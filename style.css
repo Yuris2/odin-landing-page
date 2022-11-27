@@ -13,6 +13,15 @@
     margin-right: 3%;
     justify-content: space-evenly;
     text-decoration: none;
+    color: white;
+}
+
+.right-links:active {
+    text-decoration: none;
+}
+
+.right-links:visited{
+    text-decoration: none;
 }
 
 .logo {
