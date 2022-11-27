@@ -1,14 +1,14 @@
 @font-face {
-    font-family:hero-bold ;
-    src: url(fonts/Hero-Bold.ttf);
+    font-family: roboto-bold;
+    src: url(fonts/Roboto-Bold.ttf);
 }
 @font-face {
-    font-family:hero-light ;
-    src: url(fonts/Hero-Light.ttf);
+    font-family: roboto-regular;
+    src: url(fonts/Roboto-Regular.ttf);
 }
 @font-face {
-    font-family:hero-regular ;
-    src: url(fonts/Hero-Regular.ttf);
+    font-family: roboto-light;
+    src: url(fonts/Roboto-Light.ttf);
 }
 
 .header {
@@ -38,7 +38,10 @@
 }
 
 .logo {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: caveat;
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: extra bold;
     margin-right:auto;
     margin-left: 10%;
     
