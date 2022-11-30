@@ -100,6 +100,7 @@
 }
 .information {
     margin: 5%;
+    margin-bottom: 13%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -170,6 +171,7 @@
     align-items: center;
     gap:16px;
     margin-top: 10%;
+    margin-bottom: 10%;
 }
 .popup {
     background-color: #3882F6 ;
