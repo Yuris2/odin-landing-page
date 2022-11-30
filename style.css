@@ -162,16 +162,14 @@
     font-weight: 800;
     align-self: flex-end;
 }
-.container {
 
-}
 .popup-container {
     display: flex;
     justify-content: center;
     align-items: center;
     gap:16px;
     margin-top: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 4.7%;
 }
 .popup {
     background-color: #3882F6 ;
@@ -188,6 +186,7 @@
     font-size: 24px;
     font-weight: 800;
     color:#F9FAF8 ; 
+    </div>
 }
 
 .popup-subtext {
@@ -208,3 +207,17 @@
     border-radius:6px;
 }
 
+.footer {
+    background-color: #1f2937;
+    padding: 4%;
+    margin-left:-3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color:#E5E7EB ;
+    font-family: roboto-light;
+    font-size: 18px;
+}
