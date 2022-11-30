@@ -161,3 +161,31 @@
     font-weight: 800;
     align-self: flex-end;
 }
+.container {
+
+}
+.popup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:16px;
+}
+.popup {
+    background-color: #3882F6 ;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 10%;
+    gap: 40%;
+}
+
+.popup-main {
+    font-family: roboto-regular;
+    font-size: 24px;
+    font-weight: 800;
+    color:#F9FAF8 ; 
+}
+
+
+
+
