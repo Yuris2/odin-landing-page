@@ -109,9 +109,10 @@
 .info-header {
     font-family: roboto-bold;
     color: #1f2937;
-    font-size: 24px;
+    font-size: 36px;
     text-align: center;
     margin: 5%;
+    font-weight: 800;
 }
 
 .box {
@@ -138,4 +139,25 @@
     background-color:#E5E7EB ;
     margin: -5%;
     padding:5%;
+    display: flex;
+    flex-direction:column ;
+}
+.quote-container {
+    align-self: center;
+    max-width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text {
+    font-family: roboto-light;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.author {
+    font-family: roboto-bold;
+    font-size: 18px;
+    font-weight: 800;
+    align-self: flex-end;
 }
