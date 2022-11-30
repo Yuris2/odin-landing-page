@@ -118,8 +118,8 @@
     border: 5px solid #3882F6;
 }
 
-.subtext {
-    
+.info-container {
+    max-width: 100px;
 }
 
 
